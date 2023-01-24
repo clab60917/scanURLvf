@@ -1,5 +1,6 @@
 # scanURLvf
 Final version of the url scan (OSINT TOOL)
+DNS RECON + WHOIS + ANALYSE OF REDIRECTIONS
 pip install pipenv
 
 pipenv install
